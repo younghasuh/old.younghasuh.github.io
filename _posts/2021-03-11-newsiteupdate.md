@@ -1,6 +1,6 @@
 ---
 title: "New website!"
-excerpt: "Github with Jekyll & Minimal Mistakes."
+# excerpt: "Github with Jekyll & Minimal Mistakes."
 date: March 11, 2021
 ---
 
