@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 header:
     overlay_image: /assets/images/jaybanner.png
-author_profile: false
+author_profile: true
 toc: true
 toc_label: "Sections"
 toc_icon: "crow"
