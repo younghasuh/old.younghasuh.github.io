@@ -3,7 +3,7 @@ layout: single
 title: "About"
 permalink: /about/
 header:
-    overlay_image: /assets/images/jaystanding.jpg
+    overlay_image: /assets/images/jaystanding.JPG
 author_profile: true
 classes: wide
 date: March 11, 2021
