@@ -3,7 +3,7 @@ layout: single
 title: "Research"
 permalink: /research/
 header:
-    overlay_image: /assets/images/jaybanner.png
+    overlay_image: /assets/images/jay1.JPG
 author_profile: true
 toc: true
 toc_label: "Sections"
