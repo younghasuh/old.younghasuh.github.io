@@ -3,7 +3,7 @@ layout: single
 title: "Research"
 permalink: /research/
 header:
-    overlay_image: /assets/images/DSCF2831.JPG
+    overlay_image: /assets/images/jaybanner.png
 author_profile: false
 toc: true
 toc_label: "Sections"
