@@ -9,6 +9,7 @@ classes: wide
 date: March 11, 2021
 ---
 
+{% include figure image_path="/assets/images/about.jpg" alt="" caption="" %}
 
 I am interested in why variation in life history strategies exist within a population. To start answering this question, I have been studying dispersal decisions in the cooperatively breeding Florida scrub-jay. I use long-term and field-collected data, as well as newly developed tracking technology to study movement leading up to dispersal.
 
