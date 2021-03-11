@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Contact"
-permalink: /contact/
+title: "About"
+permalink: /about/
 header:
     overlay_image: /assets/images/jaystanding.jpg
 author_profile: true
