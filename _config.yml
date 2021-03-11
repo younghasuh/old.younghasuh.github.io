@@ -56,7 +56,7 @@ analytics:
 author:
   name             : "Young Ha Suh"
   avatar           : "/assets/images/39876044_2299365773412067_7139445564009086976_o.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a PhD candidate in the department of Ecology and Evolutionary Biology at Cornell University. I study movement ecology and natal dispersal of birds."
+  bio              : "PhD candidate, Ecology and Evolutionary Biology, Cornell University"
   location         : "Ithaca, NY, USA"
   links:
     - label: "Email"
