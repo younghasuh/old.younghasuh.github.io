@@ -25,7 +25,7 @@ url                      : "https://younghasuh.github.io" # the base hostname & 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "younghasuh/yswebsite" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/FSJ0.png" 
+logo                     : "/assets/images/FSJ0.png" 
 
 
 search                   : # true, false (default)
@@ -56,7 +56,7 @@ analytics:
 # Site Author
 author:
   name             : "Young Ha Suh"
-  avatar           : "/assets/39876044_2299365773412067_7139445564009086976_o.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/39876044_2299365773412067_7139445564009086976_o.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a PhD candidate in the department of Ecology and Evolutionary Biology at Cornell University. I study movement ecology and natal dispersal of birds."
   location         : "Ithaca, NY, USA"
   links:
