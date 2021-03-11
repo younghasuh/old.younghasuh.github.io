@@ -7,7 +7,7 @@ header:
 author_profile: true
 toc: true
 toc_label: "Sections"
-toc_icon: 
+toc_icon: "crow"
 classes: wide
 date: March 11, 2021
 ---
