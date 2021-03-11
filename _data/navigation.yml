@@ -3,7 +3,7 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
-  - title: "Publications"
-    url: /pubs/
+  #- title: "Publications"
+  #  url: /pubs/
   - title: "CV"
     # url: assets/pdfs/Taff_CV_August_2020.pdf
