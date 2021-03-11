@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Young Ha Suh"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/39876044_2299365773412067_7139445564009086976_o.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I study movement ecology and natal dispersal of birds."
   location         : "Ithaca, NY"
   email            : "ys757@cornell.edu"
