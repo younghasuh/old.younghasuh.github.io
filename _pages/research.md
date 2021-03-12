@@ -31,7 +31,7 @@ Despite being known for their "blessedly simple" cooperative breeding system com
 ### Is movement actually costly? 
 
 Dispersal is considered costly due to increased energetic costs, exposure to predators in unfamiliar landscapes, and aggression from territory-holding conspecifics, yet this is not well substantiated in the field. I measured body condition in nonbreeding jays that are actively seeking breeding territories by collecting body mass changes and blood samples for oxidative stress measures to see if increased movement affects body condition. I predict that either 1) movement negatively affects body condition or 2) those in high body condition or those able to maintain high body condition are able to engage in pre-dispersal movement. This work was possible thanks to the Vitousek Lab at Cornell. 
-{% include figure image_path="/assets/images/IMG_1484.JPG" alt="" caption="Peanuts are a great training tool for getting a Florida scrub-jay to get on a scale." %}
+{% include figure image_path="/assets/images/jay_scale.JPG" alt="" caption="Peanuts are a great training tool for getting a Florida scrub-jay to get on a scale." %}
 
 
 ### Prospecting behavior, an understudied and elusive precursor to natal dispersal
