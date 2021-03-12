@@ -24,7 +24,7 @@ Committee, I have been working with my colleagues to establish a field
 safety protocol for the station, inspired by great work from [Demery and
 Pipkin 2021](https://www.nature.com/articles/s41559-020-01328-5?proof=t){:target="\_blank"
 rel=“noopener”}, in order to inform and protect all interns, visiting
-scholars, and researchers. I will start on the Association of Field
+scholars, and researchers. I will start serving on the Association of Field
 Ornithologist’s Ethics Committee to develop a complete code of ethics
 for all ornithologists in our society. I also work on various community
 efforts, including moderating the Diversity and Inclusion Workshop for
