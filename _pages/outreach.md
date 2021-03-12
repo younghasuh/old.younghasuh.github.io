@@ -25,9 +25,9 @@ During my time at the Kalahari Meerkat Project, we learned that many rural South
 <figure style="width: 800px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/naledi.jpg" alt="">
   <figcaption>Where is Naledi?: The children's book we wrote and drew.</figcaption>
-</figure> 
+</figure> <br>
 
-<br>
+
 
 #### Logos
 I like to design my own and other logos. I am by no means an expert but I like thinking about colors and composition.
@@ -35,9 +35,8 @@ I like to design my own and other logos. I am by no means an expert but I like t
 <figure style="width: 300px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/tracking.png" alt="">
   <figcaption>Logo for the Florida scrub-jay tracking project.</figcaption>
-</figure> 
+</figure> <br>
 
-<br>
 
 <figure class="half">
     <a href="/assets/images/woodducklogo1.png"><img src="/assets/images/woodducklogo1.png"></a>
