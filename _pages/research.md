@@ -14,7 +14,7 @@ date: March 11, 2021
 
 ### Research Overview
 
-I study variation in dispersal behavior of an intensively monitored population of Florida Scrub-Jays *Aphelocoma coerulescens*, a federally listed habitat specialist that is restricted to the endangered and declining Florida scrub habitat. In this cooperatively breeding species, offspring delay dispersal for at least a year, sometimes up to 5-6, which begs the question, why? I have been working with this fascinating corvid through the Avian Ecology Lab at the [Archbold Biological Station](https://www.archbold-station.org/). The population here has been studied for 50 years, and we have extensive demographic and habitat data for every jay that has occurred in the study tract.
+I study variation in dispersal behavior of an intensively monitored population of Florida Scrub-Jays *Aphelocoma coerulescens*, a federally listed habitat specialist that is restricted to the endangered and declining Florida scrub habitat. In this cooperatively breeding species, offspring delay dispersal for at least a year, sometimes up to 5-6, which begs the question, why? I have been working with this fascinating corvid through the Avian Ecology Lab at the [Archbold Biological Station](https://www.archbold-station.org/){:target="_blank" rel="noopener"}. The population here has been studied for 50 years, and we have extensive demographic and habitat data for every jay that has occurred in the study tract.
 {% include figure image_path="/assets/images/bg.JPG" alt="" caption="Sunset from Archbold Biological Station, Venus, FL, USA" %}
 
 ### Social and environmental predictors of natal dispersal
