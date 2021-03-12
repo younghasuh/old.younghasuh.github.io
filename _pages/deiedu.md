@@ -3,7 +3,7 @@ layout: single
 title: "DEIJB and Teaching"
 permalink: /education/
 header:
-    overlay_image: /assets/images/fog.JPG
+    overlay_image: /assets/images/fog.jpg
 author_profile: true
 toc: true
 toc_label: "Sections"
