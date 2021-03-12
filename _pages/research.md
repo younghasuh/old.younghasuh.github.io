@@ -43,13 +43,13 @@ Prospecting, the process of gathering social and environmental information on su
     <figcaption>A Florida scrub-jay equipped with a LifeTag and a animated visualization of the location estimates of 9 tagged jays, each in a different color.</figcaption>
 </figure>
 
-### Side Projects
+### Other Projects
 #### Northern orioles: are they mixing or gaining more resources?
 I am collaborating with Drs. Vanya Rohwer and Russell Ligon to investigate apparent color change in the Bullock's Oriole *Icterus bullockii* in relation to the Baltimore oriole *I. galbula*, which frequently hybridize in the great plains. Opportunistically using a historic sampling event where both species were sampled in 1950s and re-sampled in the 2010s, we measured colorimetric variables of specimens to measure the degree of change. We saw that modern Bullock's orioles do seem to resemble their more orange cousins but what has drived this change? More work to come! 
 
 <figure class="third">
 	<img src="/assets/images/orioles1.jpg">
-	<img src="/assets/images/pca_inter_historic.tiff">
-	<img src="/assets/images/pca_inter_modern.tiff">
+	<img src="/assets/images/pca_inter_historic.png">
+	<img src="/assets/images/pca_inter_modern.png">
 	<figcaption> Bullock's orioles seem to have turned more orange even when visually assessed (left: historic specimens, right: modern). PCA plots support this evidence. </figcaption>
 </figure>
