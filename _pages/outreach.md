@@ -30,6 +30,7 @@ During my time at the Kalahari Meerkat Project, we learned that many rural South
   <figcaption>Logo for the Florida scrub-jay tracking project.</figcaption>
 </figure> 
 
+<br>
 
 <figure class="half">
     <a href="/assets/images/woodducklogo1.png"><img src="/assets/images/woodducklogo1.png"></a>
