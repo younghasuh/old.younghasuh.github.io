@@ -22,9 +22,14 @@ Y Suh. 2016. What checking wood duck boxes does for a kid from the city. Califor
 ### Art 
 #### Children's book
 During my time at the Kalahari Meerkat Project, we learned that many rural South African communities were illegally poaching and keeping wildlife as pets. My colleagues and I decided to write a children's book to promote anti-poaching and wildlife conservation. We all came up with the storyline while Sam Lostrom and I did the illustrations. We managed to get a publisher for the book and published it in February of 2019 with Sub-Saharan Publishers. We wrote the book in Afrikaans and Sestwana, in addition to English, and donated over 500 books to local schools and farms throughout northwester South Africa. This was a collaborative project that I was truly excited to be a part of. 
-{% include figure image_path="/assets/images/naledi.jpg" alt="" caption="Where is Naledi?: The children's book we wrote and drew." %}
+<figure style="width: 800px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/naledi.jpg" alt="">
+  <figcaption>Where is Naledi?: The children's book we wrote and drew.</figcaption>
+</figure> 
 
 #### Logos
+I like to design my own and other logos. I am by no means an expert but I like thinking about colors and composition.
+
 <figure style="width: 300px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/tracking.png" alt="">
   <figcaption>Logo for the Florida scrub-jay tracking project.</figcaption>
