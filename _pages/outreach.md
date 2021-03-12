@@ -25,7 +25,7 @@ During my time at the Kalahari Meerkat Project, we learned that many rural South
 {% include figure image_path="/assets/images/naledi.jpg" alt="" caption="Where is Naledi?: The children's book we wrote and drew." %}
 
 #### Logos
-{% include figure image_path="/assets/images/tracking.png" alt="" caption="" %}
+{% include figure image_path="/assets/images/tracking.png" alt="" caption="" %}{:width="400px"}
 
 <figure class="half">
     <a href="/assets/images/woodducklogo1.png"><img src="/assets/images/woodducklogo1.png"></a>
