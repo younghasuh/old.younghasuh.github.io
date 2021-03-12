@@ -3,11 +3,15 @@ layout: single
 title: "DEIJB and Teaching"
 permalink: /education/
 header:
-    overlay_image: /assets/images/jay2.JPG
+    overlay_image: /assets/images/fog.JPG
 author_profile: true
 classes: wide
 date: March 12, 2021
 ---
 
-{% include figure image_path="/assets/images/intro.jpg" alt="" caption="" %}
+### Diversity, Equity, and Inclusion
 
+
+### Teaching Philosophy
+
+#### Teaching experience
