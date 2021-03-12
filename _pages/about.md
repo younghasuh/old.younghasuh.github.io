@@ -18,14 +18,13 @@ I am a PhD candidate in the department of Ecology and Evolutionary Biology at Co
 ### Let's connect!
 
 Young Ha Suh (she/her) <br>
-  *Last name Suh is pronounced like "sun" without the 'n'* <br>
+    *Last name Suh is pronounced like "sun" without the 'n'* <br>
 Ph.D. Candidate <br>
 [Department of Ecology & Evolutionary Biology][1]<br>
 [Cornell Lab of Ornithology][2]<br>
 
 <br>
 Cornell University
-
 215 Tower Road Rd.<br />
 Ithaca, NY 14850<br />
 
