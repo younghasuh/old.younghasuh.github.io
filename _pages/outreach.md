@@ -20,12 +20,15 @@ Y Suh. 2018. Triumph of a bird brain. [Science Outside](https://scienceoutside.c
 Y Suh. 2016. What checking wood duck boxes does for a kid from the city. California Waterfowl Spring: 32-34.
 
 ### Art 
-Art has always been my creative outlet. 
-
 #### Children's book
 During my time at the Kalahari Meerkat Project, we learned that many rural South African communities were illegally poaching and keeping wildlife as pets. My colleagues and I decided to write a children's book to promote anti-poaching and wildlife conservation. We all came up with the storyline while Sam Lostrom and I did the illustrations. We managed to get a publisher for the book and published it in February of 2019 with Sub-Saharan Publishers. We wrote the book in Afrikaans and Sestwana, in addition to English, and donated over 500 books to local schools and farms throughout northwester South Africa. This was a collaborative project that I was truly excited to be a part of. 
 {% include figure image_path="/assets/images/naledi.jpg" alt="" caption="Where is Naledi?: The children's book we wrote and drew." %}
 
 #### Logos
-{% include figure image_path="/assets/images/woodducklogo1.png" alt="" caption="" %}
-{% include figure image_path="/assets/images/eadielab.jpg" alt="" caption="" %}
+{% include figure image_path="/assets/images/tracking.png" alt="" caption="" %}
+
+<figure class="half">
+    <a href="/assets/images/woodducklogo1.png"><img src="/assets/images/woodducklogo1.png"></a>
+    <a href="/assets/images/eadielab.jpg"><img src="/eadielab.jpg"></a>
+    <figcaption>A t-shirt design I did for the UC Davis Wood Duck Project.</figcaption>
+</figure>
