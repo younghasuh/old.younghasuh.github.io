@@ -27,6 +27,8 @@ During my time at the Kalahari Meerkat Project, we learned that many rural South
   <figcaption>Where is Naledi?: The children's book we wrote and drew.</figcaption>
 </figure> 
 
+<br>
+
 #### Logos
 I like to design my own and other logos. I am by no means an expert but I like thinking about colors and composition.
 
