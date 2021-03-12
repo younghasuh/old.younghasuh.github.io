@@ -41,11 +41,7 @@ My role as a teacher is to get students interested in science and the scientific
   - An Introduction to Evolutionary Biology and Diversity (Fall 2020)
   - Mammalogy, Lectures and Laboratory (Fall 2017 and 2019)
   - An Introduction to Ecology and the Environment (Fall 2016)
-  - Habitat Conservation and Restoration Laboratory (Winter 2014 and
-    2015, UC Davis)
-      - helped students design and execute group projects at Yolo Basin
-        Wildlife Area
-  - Biology and Conservation of Wild Mammals, Laboratory (Spring 2014,
-    UC Davis)
-  - Natural History of California’s Wild Vertebrates (Winter 2014, UC
-    Davis)
+  - Habitat Conservation and Restoration Laboratory (Winter 2014 and 2015, UC Davis)
+      - helped students design and execute group projects at Yolo Basin Wildlife Area
+  - Biology and Conservation of Wild Mammals, Laboratory (Spring 2014, UC Davis)
+  - Natural History of California’s Wild Vertebrates (Winter 2014, UC Davis)
