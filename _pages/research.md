@@ -41,3 +41,9 @@ Prospecting, the process of gathering social and environmental information on su
 <img src="/assets/images/slowed_ver.gif" width="300" height="300"/>
 <figcaption>Visualization of location estimates on 9 tagged jays, each in a different color.</figcaption>
 
+
+<figure class="half">
+    <a href="/assets/images/slowed_ver.gif"><img src="/assets/images/slowed_ver.gif"></a>
+    <a href="/assets/images/slowed_ver.gif"><img src="/assets/images/slowed_ver.gif"></a>
+    <figcaption>Caption describing these two images.</figcaption>
+</figure>
