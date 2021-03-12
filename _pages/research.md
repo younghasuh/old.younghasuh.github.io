@@ -43,7 +43,7 @@ Prospecting, the process of gathering social and environmental information on su
 
 
 <figure class="half">
+    <a href="/assets/images/slowed_ver.gif"><img src="/assets/images/taggedjay.jpg"></a>
     <a href="/assets/images/slowed_ver.gif"><img src="/assets/images/slowed_ver.gif"></a>
-    <a href="/assets/images/slowed_ver.gif"><img src="/assets/images/slowed_ver.gif"></a>
-    <figcaption>Caption describing these two images.</figcaption>
+    <figcaption>A Florida scrub-jay equipped with a LifeTag and a animated visualization of the location estimates of 9 tagged jays, each in a different color.</figcaption>
 </figure>
