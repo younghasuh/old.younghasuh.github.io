@@ -27,6 +27,8 @@ Natal dispersal refers to the movement from a natal site to a breeding site. It 
 Despite being known for their "blessedly simple" cooperative breeding system comprised of the breeding pair and offspring (Woolfenden & Fitzpatrick 1984), Florida scrub-jays exhibit exceptions to this norm with the presence of "adopted helpers"; unrelated helper jays that join the group and help with group-related duties (e.g. sentineling, provisioning young). I noticed that this occurs more frequently than was previously thought and decided to investigate more. Using long-term data, I aim to understand what ecological factors best describe the occurrence of this dispersal strategy and whether it is truly an alternative strategy with comparable fitness payoffs as opposed to staying at home as a natal helper. 
 
 
+{% include figure image_path="/assets/images/IMG_1484.JPG" alt="" caption="Training a Florida scrub-jay with peanuts to get their body mass." %}
+
 ### Is movement actually costly? 
 
 Dispersal is considered costly due to increased energetic costs, exposure to predators in unfamiliar landscapes, and aggression from territory-holding conspecifics, yet this is not well substantiated in the field. I measured body condition in nonbreeding jays that are actively seeking breeding territories by collecting body mass changes and blood samples for oxidative stress measures to see if increased movement affects body condition. I predict that either 1) movement negatively affects body condition or 2) those in high body condition or those able to maintain high body condition are able to engage in pre-dispersal movement. This work was possible thanks to the Vitousek Lab at Cornell. 
