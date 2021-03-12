@@ -25,10 +25,13 @@ During my time at the Kalahari Meerkat Project, we learned that many rural South
 {% include figure image_path="/assets/images/naledi.jpg" alt="" caption="Where is Naledi?: The children's book we wrote and drew." %}
 
 #### Logos
-{% include figure image_path="/assets/images/tracking.png" alt="" caption="" %}{:width="400px"}
-![FSJ tracking logo](/assets/images/tracking.png){:width="400px"}
+<figure style="width: 300px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/tracking.png" alt="">
+  <figcaption>Logo for the Florida scrub-jay tracking project.</figcaption>
+</figure> 
 
-<figure class="half", class="align-center">
+
+<figure class="half">
     <a href="/assets/images/woodducklogo1.png"><img src="/assets/images/woodducklogo1.png"></a>
     <a href="/assets/images/eadielab.jpg"><img src="/assets/images/eadielab.jpg"></a>
     <figcaption>A t-shirt design I did for the UC Davis Wood Duck Project.</figcaption>
