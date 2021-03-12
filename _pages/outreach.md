@@ -28,7 +28,7 @@ During my time at the Kalahari Meerkat Project, we learned that many rural South
 {% include figure image_path="/assets/images/tracking.png" alt="" caption="" %}{:width="400px"}
 ![FSJ tracking logo](//assets/images/tracking.png){:width="400px"}
 
-<figure class="half">
+<figure class="half", class="align-center">
     <a href="/assets/images/woodducklogo1.png"><img src="/assets/images/woodducklogo1.png"></a>
     <a href="/assets/images/eadielab.jpg"><img src="/assets/images/eadielab.jpg"></a>
     <figcaption>A t-shirt design I did for the UC Davis Wood Duck Project.</figcaption>
