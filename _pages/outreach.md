@@ -25,7 +25,7 @@ During my time at the Kalahari Meerkat Project, we learned that many rural South
 <figure style="width: 800px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/naledi.jpg" alt="">
   <figcaption>Where is Naledi?: The children's book we wrote and drew.</figcaption>
-</figure> <br>
+</figure> <br clear=left>
 
 
 
