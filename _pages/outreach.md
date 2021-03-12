@@ -26,6 +26,7 @@ During my time at the Kalahari Meerkat Project, we learned that many rural South
 
 #### Logos
 {% include figure image_path="/assets/images/tracking.png" alt="" caption="" %}{:width="400px"}
+![FSJ tracking logo](//assets/images/tracking.png){:width="400px"}
 
 <figure class="half">
     <a href="/assets/images/woodducklogo1.png"><img src="/assets/images/woodducklogo1.png"></a>
