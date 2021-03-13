@@ -3,7 +3,7 @@ layout: single
 title: "Outreach"
 permalink: /outreach/
 header:
-    overlay_image: /assets/images/duckling3.jpg
+    overlay_image: /assets/images/nest.jpg
 author_profile: true
 classes: wide
 date: March 12, 2021
@@ -13,6 +13,7 @@ date: March 12, 2021
 [Miami Herald](https://www.miamiherald.com/article242403911.html?fbclid=IwAR37qXc1M76xhauY6YrNiH5PFgW5hXm5YATFzjQ9LlrF42nEFtLhlnIgVUQ){:target="_blank" rel="noopener"} 
 
 [Cellular Tracking Technologies Blog](https://celltracktech.com/a-long-term-research-project-gets-a-telemetry-upgrade/){:target="_blank" rel="noopener"} 
+
 
 ### Popular Articles
 Y Suh. 2018. Triumph of a bird brain. [Science Outside](https://scienceoutside.com/portfolio/triumph-of-a-bird-brain/){:target="_blank" rel="noopener"} 
