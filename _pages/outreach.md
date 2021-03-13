@@ -3,7 +3,7 @@ layout: single
 title: "Outreach"
 permalink: /outreach/
 header:
-    overlay_image: /assets/images/nest.jpg
+    overlay_image: /assets/images/eggs2.jpg
 author_profile: true
 classes: wide
 date: March 12, 2021
@@ -14,6 +14,7 @@ date: March 12, 2021
 
 [Cellular Tracking Technologies Blog](https://celltracktech.com/a-long-term-research-project-gets-a-telemetry-upgrade/){:target="_blank" rel="noopener"} 
 
+{% include figure image_path="/assets/images/watertower.jpg" alt="" caption="" %}
 
 ### Popular Articles
 Y Suh. 2018. Triumph of a bird brain. [Science Outside](https://scienceoutside.com/portfolio/triumph-of-a-bird-brain/){:target="_blank" rel="noopener"} 
