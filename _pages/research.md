@@ -44,10 +44,8 @@ Prospecting, the process of gathering social and environmental information on su
 
 ### Other Projects
 #### Northern orioles: are they mixing or gaining more pigment-rich foods?
-<figure style="width: 350px" class="align-right">
+<figure style="width: 375px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/orioles1.jpg" alt="">
   <figcaption>Bullock's orioles seem to have turned more orange even when visually assessed (left: historic specimens, right: modern).</figcaption>
 </figure> 
 I am collaborating with Drs. Vanya Rohwer and Russell Ligon to investigate apparent color change in the Bullock's Oriole *Icterus bullockii* in relation to the Baltimore oriole *I. galbula*, which frequently hybridize in the great plains. Opportunistically using a historic sampling event where both species were sampled in 1950s and re-sampled in the 2010s, we measured colorimetric variables of specimens to measure the degree of change. We saw that modern Bullock's orioles do seem to resemble their more orange cousins but what has drived this change? More work to come! 
-
-
