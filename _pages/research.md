@@ -25,8 +25,7 @@ Natal dispersal refers to the movement from a natal site to a breeding site. It 
 #### Subordinate dispersal: Alternative pathways to dispersal for a cooperative breeder
 
 Despite being known for their "blessedly simple" cooperative breeding system comprised of the breeding pair and offspring (Woolfenden & Fitzpatrick 1984), Florida scrub-jays exhibit exceptions to this norm with the presence of "adopted helpers"; unrelated helper jays that join the group and help with group-related duties (e.g. sentineling, provisioning young). I noticed that this occurs more frequently than was previously thought and decided to investigate more. Using long-term data, I aim to understand what ecological and social factors best describe the occurrence of this dispersal strategy and whether it is truly an alternative strategy with comparable fitness payoffs as opposed to staying at home as a natal helper. 
-
-
+{% include figure image_path="/assets/images/jay4.JPG" alt="" caption="" %}
 
 #### Physiological costs of movement: is movement actually costly for a resident bird? 
 
