@@ -14,7 +14,7 @@ date: March 12, 2021
 
 [Cellular Tracking Technologies Blog](https://celltracktech.com/a-long-term-research-project-gets-a-telemetry-upgrade/){:target="_blank" rel="noopener"} 
 
-{% include figure image_path="/assets/images/watertower.jpg" alt="" caption="" %}
+{% include figure image_path="/assets/images/watertower2.jpg" alt="" caption="" %}
 
 ### Popular Articles
 Y Suh. 2018. Triumph of a bird brain. [Science Outside](https://scienceoutside.com/portfolio/triumph-of-a-bird-brain/){:target="_blank" rel="noopener"} 
@@ -28,6 +28,10 @@ During my time at the Kalahari Meerkat Project, we learned that many rural South
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/naledi.jpg" alt="">
   <figcaption>Where is Naledi?: The children's book we wrote and drew.</figcaption>
 </figure> <br clear=left>
+
+#### Specimen prep
+Specimen preparation is the perfect combination for my love of art and science. I learned how to prepare avian specimens by taking Techniques of Avian Specimen Preparation with Dr. Vanya Rohwer and fell in love with the art of it ever since. 
+{% include figure image_path="/assets/images/cuckoo.jpg" alt="" caption="" %}
 
 
 #### Logos
