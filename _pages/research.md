@@ -25,7 +25,7 @@ Natal dispersal refers to the movement from a natal site to a breeding site. It 
 #### Subordinate dispersal: Alternative pathways to dispersal for a cooperative breeder
 
 Despite being known for their "blessedly simple" cooperative breeding system comprised of the breeding pair and offspring (Woolfenden & Fitzpatrick 1984), Florida scrub-jays exhibit exceptions to this norm with the presence of "adopted helpers"; unrelated helper jays that join the group and help with group-related duties (e.g. sentineling, provisioning young). I noticed that this occurs more frequently than was previously thought and decided to investigate more. Using long-term data, I aim to understand what ecological and social factors best describe the occurrence of this dispersal strategy and whether it is truly an alternative strategy with comparable fitness payoffs as opposed to staying at home as a natal helper. 
-{% include figure image_path="/assets/images/jay4.JPG" alt="" caption="" %}
+{% include figure image_path="/assets/images/jay4.JPG" alt="" caption="Florida scrub-jays tend to form kin-based groups to defend territories and feed young, but not all groups are alike." %}
 
 #### Physiological costs of movement: is movement actually costly for a resident bird? 
 
@@ -43,8 +43,8 @@ Prospecting, the process of gathering social and environmental information on su
 </figure>
 
 ### Other Projects
-#### Northern orioles: are they mixing or gaining more resources?
-<figure style="width: 400px" class="align-right">
+#### Northern orioles: are they mixing or gaining more pigment-rich foods?
+<figure style="width: 350px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/orioles1.jpg" alt="">
   <figcaption>Bullock's orioles seem to have turned more orange even when visually assessed (left: historic specimens, right: modern).</figcaption>
 </figure> 
