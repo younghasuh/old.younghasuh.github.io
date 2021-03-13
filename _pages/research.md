@@ -44,7 +44,7 @@ Prospecting, the process of gathering social and environmental information on su
 
 ### Other Projects
 #### Northern orioles: are they mixing or gaining more resources?
-<figure style="width: 600px" class="align-right">
+<figure style="width: 400px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/orioles1.jpg" alt="">
   <figcaption>Bullock's orioles seem to have turned more orange even when visually assessed (left: historic specimens, right: modern).</figcaption>
 </figure> 
