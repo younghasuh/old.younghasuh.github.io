@@ -30,7 +30,7 @@ My role as a teacher is to get students interested in science and the scientific
 ### Teaching Experience
 #### Teaching as an instructor
   - **Writing in the Majors**, An Introduction to Evolutionary Biology and Diversity (Spring 2021), Cornell University 
-    : A writing-intensive track of the original course that integrates course material supplemented with additional reading material, discussions, and writing. I design and lead the course as a Graduate Teaching Assistant. My goals for the semester include helping students:
+    - A writing-intensive track of the original course that integrates course material supplemented with additional reading material, discussions, and writing. I design and lead the course as a Graduate Teaching Assistant. My goals for the semester include helping students:
       - understand major evolutionary processes and describe examples that illustrate these principles
       - read, analyze, discuss, and write about primary literature in evolutionary biology through active learning
       - think critically and creatively about the biology and science in published literature
