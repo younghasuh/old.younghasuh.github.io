@@ -27,7 +27,7 @@ repository               : "younghasuh/yswebsite" # GitHub username/repo-name e.
 logo                     : "/assets/images/FSJ0.png" 
 
 
-search                   : # true, false (default)
+search                   : true
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
