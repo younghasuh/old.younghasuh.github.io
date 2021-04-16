@@ -29,5 +29,3 @@ Department of Ecology and Evolutionary Biology, Cornell University <br />
 Ithaca, NY 14850 <br />
 
 <a href="mailto:{{ 'ys757@cornell.edu' | encode_email }}" title="Email me">Email me</a>
-
-https://orcid.org/0000-0001-5569-5127 
