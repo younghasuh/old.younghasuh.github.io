@@ -78,7 +78,7 @@ Overall, we got pretty decent coverage by our nodes, as you can see in these fig
 
 {% include figure image_path="/assets/images/ctt9.png" alt="" caption="" %}
 
-When looking at the localizations, they were not great, especially depending on where the tag was placed. On average, the localization error, calculated by the average distance between the actual and estimated locations, was *117.56 (SE +/- 1.74) m*. Accuracy was highly affected by node height, with tags closer to the ground being more accurate than tags higher up. This result seems counter intuitive but this has to do with the node coverage you saw above: tags that were higher up got detected by so many more nodes, it would even bias the location estimate. Coupled with the fact that vegetation can actually obscure signal transmission, we saw a strong bias towards more open habitat. CTT has been working on improving this localization algorithm and the current algorithm (as of March 2021) has reduced the error to *73.83 +/- 3.48 m*. This is still far from ideal but we are hoping to update the algorithm to our system to lower this error. 
+When looking at the localizations, they were *not great*, especially depending on where the tag was placed. On average, the localization error, calculated by the average distance between the actual and estimated locations, was **117.56 (SE +/- 1.74) m**. Accuracy was highly affected by node height, with tags closer to the ground being more accurate than tags higher up. This result seems counter intuitive but this has to do with the node coverage you saw above: tags that were higher up got detected by so many more nodes, it would even bias the location estimate. Coupled with the fact that vegetation can actually obscure signal transmission, we saw a strong bias towards more open habitat. CTT has been working on improving this localization algorithm and the current algorithm (as of March 2021) has reduced the error to **73.83 +/- 3.48 m**. This is still far from ideal but we are hoping to update the algorithm to our system to lower this error. 
 
 {% include figure image_path="/assets/images/ctt10.png" alt="" caption="" %}
 
@@ -86,9 +86,25 @@ When looking at the localizations, they were not great, especially depending on 
 
 ### Problems & troubleshooting
 
-1. 
-2.
-3.
+In addition to the current accuracy issues, there are a few more hurdles that we need to overcome. 
+
+1. Data management. 
+
+<br>
+
+2. Tabs and tags
+
+
+
+<br>
+
+<figure style="width: 200px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ctt11.png" alt="">
+</figure> 
+
+3. Other hardware issues
+
+
 
 <br>
 
