@@ -89,14 +89,14 @@ In addition to the current accuracy issues, there are a few more hurdles that we
 This system generates a LOT of data - about 5 MB of raw data per day (tag, node health, node GPS data) so a good storage system is key. Especially if you are to store the raw and processed data (the latter is much larger), this can be an issue. Both raw and processed data will be saved at Archbold for future use. In addition, this system requires familiarity with R and Github. CTT is in the process of developing an R package soon, however. 
 
 #### Tabs and tags
-<figure style="width: 200px" class="align-right">
+<figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ctt5.jpg" alt="">
 </figure> 
 
 We had so many tag problems from the start. We first made the mistake of using Stretch Magic that was too thin. Upgrading to the 1.0 mm helped and we still have not lost tags this way, and plus there seem to be no signs of abrasian on the skin. The next few batches of LifeTags we received came faulty or flimsy. We lost so many tags in this process, it was a pain to re-trap the birds and retrieve the tags. Because they are solar-powered, about 30-40% were never retrieved, possibly due to them being flipped over or having their solar panel covered. In the latter batches we manually fortified our tags using epoxy to strengthen the bond between the tag and plastic tab. However, we still experienced tag losses through antennas breaking off, which we are unsure why this happens. While Florida scrub-jays do have strong bills, this antenna-loss was also observed in tagged tree swallows, which makes us question if it was actually the birds breaking off the antennas. Regardless, I highly advise anyone using these tags to take extra precautions in strengthening their tags. 
 
 #### Other hardware issues
-<figure style="width: 200px" class="align-right">
+<figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ctt11.png" alt="">
 </figure> 
 
