@@ -34,10 +34,9 @@ The resulting data comprise of Tag ID, node ID, date and time, and signal streng
 ### Set up at Archbold
 
 
-<figure style="width: 300px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ctt0.jpg" alt="">
-  <figcaption>Antennas for the sensor station were intalled on top of the water tower (see top).</figcaption>
-</figure> <br> 
+
+
+<img align = "right" src = "/assets/images/ctt0.jpg">
 
 #### Installation and setup
 We first installed 3 yagis and 1 omnidirectional antenna at the top of our 140 ft water tower to maximize coverage. The sensor station was placed at the bottom for easy maintenance and access to an outlet and we connected it to the antenna using coax cable. We used a surge protector from APC because that outdoor outlet was prone to failure and disrupting data collection. The initial version of the sensor station had to be downloaded manually with a USB -- luckily this is fixed now and all the data is uploaded via wifi every hour! 
@@ -76,7 +75,7 @@ Overall, we got pretty decent coverage by our nodes, as you can see in these fig
 
 {% include figure image_path="/assets/images/ctt9.png" alt="" caption="" %}
 
-When looking at the localizations, 
+When looking at the localizations, they were not great, especially depending on where the tag was placed. On average, the localization error, calculated by the average distance between the actual and estimated locations, was *117.56 (SE +/- 1.74) m*. Accuracy was highly affected by node height, with tags closer to the ground being more accurate than tags higher up. This result seems counter intuitive but this has to do with the node coverage you saw above: tags that were higher up got detected by so many more nodes, it would even bias the location estimate. Coupled with the fact that vegetation can actually obscure signal transmission, we saw a strong bias towards more open habitat. CTT has been working on improving this localization algorithm and the current algorithm (as of March 2021) has reduced the error to *73.83 +/- 3.48 m*. This is still far from ideal but we are hoping to update the algorithm to our system to lower this error. 
 
 {% include figure image_path="/assets/images/ctt10.png" alt="" caption="" %}
 
