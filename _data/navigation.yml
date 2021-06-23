@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
+  - title: "Tracking project"
+    url: /FSJtracking/
   - title: "DEI and Teaching"
     url: /education/
   - title: "Outreach"

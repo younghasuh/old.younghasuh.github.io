@@ -9,17 +9,14 @@ classes: wide
 date: March 12, 2021
 ---
 
-{% include figure image_path="/assets/images/intro.jpg" alt="" caption="" %}
-
 Why is there so much variation in life history strategies within a population? To start answering this question, I have been studying dispersal decisions in the cooperatively breeding Florida scrub-jay. I use long-term and field-collected data, as well as newly developed tracking technology to study movement leading up to dispersal.
 
 I am a Ph.D. Candidate in the department of [Ecology and Evolutionary Biology](https://ecologyandevolution.cornell.edu/){:target="_blank" rel="noopener"} at Cornell University and the [Cornell Lab of Ornithology](https://www.birds.cornell.edu){:target="_blank" rel="noopener"}, co-advised by Drs. John Fitzpatrick and Mike Webster. I conduct all fieldwork at Archbold Biological Station with Dr. Reed Bowman. 
 
-### Let's connect!
-<figure class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/oriole.gif" alt="">
-</figure> <br> 
+{% include figure image_path="/assets/images/intro.jpg" alt="" caption="" %}
 
+
+### Let's connect!
 Young Ha Suh (she/her) <br>
     *Last name Suh is pronounced like "sun" without the 'n'* <br>
     
