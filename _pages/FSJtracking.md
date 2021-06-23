@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "FLSJ tracking project"
-permalink: /research/
+permalink: /FSJtracking/
 header:
     overlay_image: /assets/images/jay5.JPG
 author_profile: true
