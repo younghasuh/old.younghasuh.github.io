@@ -3,7 +3,7 @@ layout: single
 title: "FLSJ tracking project"
 permalink: /research/
 header:
-    overlay_image: /assets/images/jay3.JPG
+    overlay_image: /assets/images/jay5.JPG
 author_profile: true
 toc: true
 toc_label: "Sections"
@@ -18,6 +18,8 @@ To collect constant movement data from Florida scrub-jays, we have deployed an a
 
 {% include figure image_path="/assets/images/watertower2.jpg" alt="" caption="" %}
 
+<br>
+
 #### How it works
 
 The CTT automated tracking system utilizes a combination of [sensor stations](https://celltracktech.com/products/tag-system/ctt-sensorstation/){:target="_blank" rel="noopener"} and a grid of [receivers nodes](https://celltracktech.com/products/tag-system/ctt-node/){:target="_blank" rel="noopener"} that pick up signals emitted from [LifeTags](https://celltracktech.com/products/tag-system/lifetag/){:target="_blank" rel="noopener"}. LifeTags are lightweight at ~0.45g which is less than 1% of our study system's average body mass. 
@@ -27,42 +29,66 @@ The resulting data comprise of Tag ID, node ID, date and time, and signal streng
 
 {% include figure image_path="/assets/images/rssi.png" alt="" caption="" %}
 
+<br>
 
 ### Set up at Archbold
-<figure style="width: 400px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ctt1.jpg" alt="">
+
+
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ctt0.jpg" alt="">
   <figcaption>Antennas for the sensor station were intalled on top of the water tower (see top).</figcaption>
 </figure> <br> 
 
 #### Installation and setup
 We first installed 3 yagis and 1 omnidirectional antenna at the top of our 140 ft water tower to maximize coverage. The sensor station was placed at the bottom for easy maintenance and access to an outlet and we connected it to the antenna using coax cable. We used a surge protector from APC because that outdoor outlet was prone to failure and disrupting data collection. The initial version of the sensor station had to be downloaded manually with a USB -- luckily this is fixed now and all the data is uploaded via wifi every hour! 
 
-We then deployed 42 nodes throughout Archbold to test out the system (more details below). Nodes were placed on a 10 ft conduit pole that were slid over a 2 ft rebar that was pounded into the ground for stability. About 1 ft of the conduit overlapped with the rebar, which was enough to keep the nodes steady. The farthest node was 2.33 km from the sensor station while the closest was 1.18 km away. 
+We then deployed 42 nodes throughout Archbold to test out the system (more details below). We used a sub-meter Trimble to place the nodes as accurately as possible. Nodes were attached to the tip of a 10 ft conduit pole that was slid over a 2 ft rebar pounded into the ground for stability. About 1 ft of the conduit overlapped with the rebar, which was enough to keep the nodes steady. The farthest node was 2.33 km from the sensor station while the closest was 1.18 km away. 
 
-<figure style="width: 400px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ctt6.png" alt="">
-</figure> <br> 
+{% include figure image_path="/assets/images/ctt7.png" alt="" caption="" %}
+
+<br>
 
 #### Tags
 We tagged 10 nonbreeding Florida scrub-jays with LifeTags. LifeTags came pre-attached to a 3D-printed plastic tab that had pre-drilled holes. We used 1.0 mm Stretch Magic string to make leg loops as past work using VHF tags showed that our birds react poorly to backpack-style tags. We made leg loops based on a [Naef-Daenzer 2007](https://onlinelibrary.wiley.com/doi/10.1111/j.2007.0908-8857.03863.x){:target="_blank" rel="noopener"} and made multiple-sized tags in the lab based on range of weights of our birds. While we could have opted to make the tags in the field, we were short-staffed so this was the easiest approach. However, there is a new paper by [Jirinec et al. 2021](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jofo.12353){:target="_blank" rel="noopener"} that we are considering using for this season. 
 
 Florida scrub-jays were captured by using drop traps baited with peanuts. Immediately after capture, we weighed the birds to fit the correctly sized tag. We fit them so that the leg loops were snug but not too tight, and there was room for the tip of a finger to go through when the leg loop was stretched. Once the tag was equipped, we used the handheld locator to make sure the signals were transmitting properly. After releasing the bird, we monitored its behavior for at least 10 minutes. We did not see any visible signs of stress as tagged birds quickly resumed normal behavior of flying, foraging, and feeding young. None of our tagged birds got caught or were restricted due to the tags. 
 
-{% include figure image_path="/assets/images/ctt7.png" alt="" caption="" %}
-
+<br>
 
 ### Pilot test
-#### Overview
-We installed a pilot grid in a small section of the study tract in spring of 2019. We installed a 6 x 7 grid (42 nodes) at 200m intervals per CTT's recommendations. 
+#### Experimental design
+We installed a pilot grid in a small section of the study tract in spring of 2019. We installed a 6 x 7 grid (42 nodes) at 200m intervals per CTT's recommendations. In the winter, we ran a pilot test to test how well our tags were doing by placing tags on a platform and placing them next to nodes. 
 
-In the winter, we ran a pilot test to test how well our tags were doing. 
+We had 2 sets of 4 tags and 1 set of 2 tags that were placed on a rotating and stationary platform, respectively. We had the 2 sets rotate either horizontally or vertically to simulate movement. We picked 4 nodes to experiment with, each differing in regards to vegetation height and density so we had a 4x4 treatment. Platforms were placed next to the node at 15 minute intervals, at different rotational directions (or stationary) and also at different heights (ground - 1.5m high - 3m high). Times and treatment were recorded as well as a distance and bearings of the actual platform location to the node.
+
+Using the localization algorithm, we used 1 minute localization averages spanning 15 minutes (thus 15 data points) and compared them with the actual location using distances and this was visualized using minimum convex polygons. 
+
+<br>
 
 #### Results
+<figure style="width: 400px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/ctt8.png" alt="">
+</figure> 
 
+Overall, we got pretty decent coverage by our nodes, as you can see in these figures. These show a graphical representation of the data: each letter and red triangle represent a node. The pink X indicates the actual location a tag was placed whereas the black circle shows its estimated location. The colorful circles around the nodes depict signal strength, i.e., larger circles represent weaker signals whereas smaller circles depict stronger signals (colors are matched by signal strength but unimportant here). The top two figures show that the majority of nodes are picing up the signal of this one tag and the location estimates match pretty well with the actual location. The bottom two figures show a different story, however, with only a few - sometimes even one! - nodes picking up the tag location at pretty low signal strengths and thus creating strong discrepancies between the estimated and actual location. The bottom right figure doesn't even show an estimated location because only 1 node picked it up, meaning the tag could be anywhere in that radius. 
+
+<br> 
+
+{% include figure image_path="/assets/images/ctt9.png" alt="" caption="" %}
+
+When looking at the localizations, 
+
+{% include figure image_path="/assets/images/ctt10.png" alt="" caption="" %}
+
+<br>
 
 ### Problems & troubleshooting
 
+1. 
+2.
+3.
 
+<br>
 
 ### Future directions
 
