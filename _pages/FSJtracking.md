@@ -32,18 +32,18 @@ The resulting data comprise of Tag ID, node ID, date and time, and signal streng
 <br>
 
 ### Set up at Archbold
-
-
-
-
-<img align = "right" src = "/assets/images/ctt0.jpg">
-
 #### Installation and setup
+
+<figure style="width: 300px" class="align-right">
+  <img align = "right" src = "/assets/images/ctt0.jpg">
+</figure>
+
+
 We first installed 3 yagis and 1 omnidirectional antenna at the top of our 140 ft water tower to maximize coverage. The sensor station was placed at the bottom for easy maintenance and access to an outlet and we connected it to the antenna using coax cable. We used a surge protector from APC because that outdoor outlet was prone to failure and disrupting data collection. The initial version of the sensor station had to be downloaded manually with a USB -- luckily this is fixed now and all the data is uploaded via wifi every hour! 
 
 We then deployed 42 nodes throughout Archbold to test out the system (more details below). We used a sub-meter Trimble to place the nodes as accurately as possible. Nodes were attached to the tip of a 10 ft conduit pole that was slid over a 2 ft rebar pounded into the ground for stability. About 1 ft of the conduit overlapped with the rebar, which was enough to keep the nodes steady. The farthest node was 2.33 km from the sensor station while the closest was 1.18 km away. 
 
-{% include figure image_path="/assets/images/ctt7.png" alt="" caption="" %}
+{% include figure image_path="/assets/images/ctt6.png" alt="" caption="" %}
 
 <br>
 
@@ -51,6 +51,9 @@ We then deployed 42 nodes throughout Archbold to test out the system (more detai
 We tagged 10 nonbreeding Florida scrub-jays with LifeTags. LifeTags came pre-attached to a 3D-printed plastic tab that had pre-drilled holes. We used 1.0 mm Stretch Magic string to make leg loops as past work using VHF tags showed that our birds react poorly to backpack-style tags. We made leg loops based on a [Naef-Daenzer 2007](https://onlinelibrary.wiley.com/doi/10.1111/j.2007.0908-8857.03863.x){:target="_blank" rel="noopener"} and made multiple-sized tags in the lab based on range of weights of our birds. While we could have opted to make the tags in the field, we were short-staffed so this was the easiest approach. However, there is a new paper by [Jirinec et al. 2021](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jofo.12353){:target="_blank" rel="noopener"} that we are considering using for this season. 
 
 Florida scrub-jays were captured by using drop traps baited with peanuts. Immediately after capture, we weighed the birds to fit the correctly sized tag. We fit them so that the leg loops were snug but not too tight, and there was room for the tip of a finger to go through when the leg loop was stretched. Once the tag was equipped, we used the handheld locator to make sure the signals were transmitting properly. After releasing the bird, we monitored its behavior for at least 10 minutes. We did not see any visible signs of stress as tagged birds quickly resumed normal behavior of flying, foraging, and feeding young. None of our tagged birds got caught or were restricted due to the tags. 
+
+{% include figure image_path="/assets/images/ctt7.png" alt="" caption="" %}
+
 
 <br>
 
