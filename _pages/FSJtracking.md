@@ -119,3 +119,5 @@ Ultimately, I will use the generated location data to analyze movement, habitat 
 ### Acknowledgements
 
 This project would not have been made possible without the support of the following: Cornell Lab of Ornithology Athena Fund, American Ornithological Society, American Society of Naturalists, Florida Ornithological Society, Wilson Ornithological Society, Animal Behavior Society, and Archbold Biological Station. 	
+
+{% include figure image_path="/assets/images/ack.png" alt="" caption="" %}
