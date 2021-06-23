@@ -109,9 +109,14 @@ I also highly recommend checking all your nodes prior to deployment as we had a 
 
 ### Future directions
 
+We already increased the grid to entire study tract by adding over 100 nodes and 4 additional sensor stations. The new node array has 355m inter-node distances based on how well the previous grid was doing. 
+
 I will continue to work on improving the localization algorithms so that it will reach an acceptable level of error for the type of questions I want to ask. I will also be conducting additional calibration tests in the field this summer to support this. 
 
 Ultimately, I will use the generated location data to analyze movement, habitat use, and possibly social networks of my birds. 
 
+<br>
+
 ### Acknowledgements
+
 This project would not have been made possible without the support of the following: Cornell Lab of Ornithology Athena Fund, American Ornithological Society, American Society of Naturalists, Florida Ornithological Society, Wilson Ornithological Society, Animal Behavior Society, and Archbold Biological Station. 	
