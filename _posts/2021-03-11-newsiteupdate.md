@@ -1,7 +1,3 @@
----
-title: "Website updates"
-# excerpt: "Github with Jekyll & Minimal Mistakes."
-date: December 30, 2022
----
+March 11, 2021
 
-I have defended my PhD in May 2022 and started a new position at the Natural History Museum of Los Angeles County. Please bear with me as I update my website to reflect the changes in my career and goals. 
+I created a new website using [Jekyll & Minimal Mistakes!](https://mmistakes.github.io/minimal-mistakes/) 
