@@ -56,15 +56,12 @@ analytics:
 author:
   name             : "Young Ha Suh"
   avatar           : "/assets/images/39876044_2299365773412067_7139445564009086976_o.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD candidate, Ecology and Evolutionary Biology, Cornell University"
-  location         : "Ithaca, NY, USA"
+  bio              : "PhD, Ornithology Collections Manager, Natural History Museum of Los Angeles County"
+  location         : "Los Angeles, CA, USA"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ys757@cornell.edu"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/YoungHa_Suh"
+      url: "mailto:ysuh@nhm.org"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/younghasuh"
