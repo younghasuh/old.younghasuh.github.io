@@ -1,7 +1,8 @@
 ---
-title: "New website!"
+title: "Updates pending"
 excerpt: "Github with Jekyll & Minimal Mistakes."
-date: March 11, 2021
+date: December 30, 2022
 ---
 
-New website using Jekyll & Minimal Mistakes! 
+
+I have defended my PhD in May 2022 and started a new position at the Natural History Museum of Los Angeles County. Please bear with me as I update my website to reflect the changes in my career and goals. 
