@@ -26,7 +26,8 @@ Natal dispersal refers to the movement from a natal site to a breeding site. It 
 
 Despite being known for their "blessedly simple" cooperative breeding system comprised of the breeding pair and offspring (Woolfenden & Fitzpatrick 1984), Florida scrub-jays exhibit exceptions to this norm with the presence of "adopted helpers"; unrelated helper jays that join the group and help with group-related duties (e.g. sentineling, provisioning young). I noticed that this occurs more frequently than was previously thought and decided to investigate more. Using long-term data, I aim to understand what ecological and social factors best describe the occurrence of this dispersal strategy and whether it is truly an alternative strategy with comparable fitness payoffs as opposed to staying at home as a natal helper. Our paper just got accepted for publication (Jan 2022) and can be found [here](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.13669){:target="_blank" rel="noopener"}.
 
-{% include figure image_path="/assets/images/JAE_cover.JPG" alt="" caption="" %}
+![JAE_cover](https://github.com/younghasuh/younghasuh.github.io/assets/22403928/7759cf34-3c2d-4c11-8218-0bb90db4c64b)
+
 
 {% include figure image_path="/assets/images/jay4.JPG" alt="" caption="Florida scrub-jays tend to form kin-based groups to defend territories and feed young, but not all groups are alike." %}
 
