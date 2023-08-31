@@ -6,10 +6,10 @@ header:
     overlay_image: /assets/images/jay2.JPG
 author_profile: true
 classes: wide
-date: December 30, 2022
+date: August 31, 2023
 ---
 
-I started a new position as the Ornithology Collections Manager at the Natural History Museum of Los Angeles County. 
+Last July 2022, I started a new position as the Ornithology Collections Manager at the Natural History Museum of Los Angeles County. I'm passionate about making biodiversity accessible and available for anyone to use, starting with this [shiny app](https://nhm-birds.shinyapps.io/lacm_birds/){:target="_blank" rel="noopener"} I wrote to easily search through our database by species.  
 
 I received my Ph.D. from the department of [Ecology and Evolutionary Biology](https://ecologyandevolution.cornell.edu/){:target="_blank" rel="noopener"} at Cornell University and the [Cornell Lab of Ornithology](https://www.birds.cornell.edu){:target="_blank" rel="noopener"}, co-advised by Drs. John Fitzpatrick and Mike Webster. I conducted all fieldwork at Archbold Biological Station with Dr. Reed Bowman. My dissertation aims to understand why is there so much variation in life history strategies within a population? I have been studying dispersal decisions in the cooperatively breeding Florida scrub-jay. I use long-term and field-collected data, as well as newly developed tracking technology to study movement leading up to dispersal.
 
@@ -19,7 +19,7 @@ I received my Ph.D. from the department of [Ecology and Evolutionary Biology](ht
 
 ### Let's connect!
 Young Ha Suh (she/her) <br>
-    *Last name Suh is pronounced like "sun" without the 'n'* <br>
+    *My last name rhymes with huh! <br>
     
 Ph.D. (she/her) <br />
 Ornithology Collections Manager <br />
