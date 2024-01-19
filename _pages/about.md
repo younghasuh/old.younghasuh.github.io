@@ -6,22 +6,21 @@ header:
     overlay_image: /assets/images/jay2.JPG
 author_profile: true
 classes: wide
-date: August 31, 2023
+date: January 18, 2024
 ---
 
-Last July 2022, I started a new position as the Ornithology Collections Manager at the Natural History Museum of Los Angeles County. I'm passionate about making biodiversity accessible and available for anyone to use, starting with this [shiny app](https://nhm-birds.shinyapps.io/lacm_birds/){:target="_blank" rel="noopener"} I wrote to easily search through our database by species.  
+I currently work as the Collections Manager of Ornithology in the Research & Collections Department at the Natural History Museum of Los Angeles County. I'm passionate about making biodiversity data accessible and available for anyone to use, starting with this [shiny app](https://nhm-birds.shinyapps.io/lacm_birds/){:target="_blank" rel="noopener"} I wrote to easily search through our database by species.  
 
-I received my Ph.D. from the department of [Ecology and Evolutionary Biology](https://ecologyandevolution.cornell.edu/){:target="_blank" rel="noopener"} at Cornell University and the [Cornell Lab of Ornithology](https://www.birds.cornell.edu){:target="_blank" rel="noopener"}, co-advised by Drs. John Fitzpatrick and Mike Webster. I conducted all fieldwork at Archbold Biological Station with Dr. Reed Bowman. My dissertation aims to understand why is there so much variation in life history strategies within a population? I have been studying dispersal decisions in the cooperatively breeding Florida scrub-jay. I use long-term and field-collected data, as well as newly developed tracking technology to study movement leading up to dispersal.
-
+I received my Ph.D. from the department of [Ecology and Evolutionary Biology](https://ecologyandevolution.cornell.edu/){:target="_blank" rel="noopener"} at Cornell University and the [Cornell Lab of Ornithology](https://www.birds.cornell.edu){:target="_blank" rel="noopener"}, co-advised by Drs. John Fitzpatrick and Mike Webster. I conducted all fieldwork at Archbold Biological Station with Dr. Reed Bowman. My dissertation focuses on understanding variation in life history strategies and dispersal decisions in the cooperatively breeding Florida scrub-jay. I used long-term historical data and field-collected data, as well as newly developed tracking technology to study movement leading up to dispersal.
 
 {% include figure image_path="/assets/images/intro.jpg" alt="" caption="" %}
 
 
 ### Let's connect!
-Young Ha Suh (she/her) <br>
+Young Ha Suh (she/her), PhD <br>
     *My last name rhymes with huh! <br>
-    
-Ph.D. (she/her) <br />
+
+<br />
 Ornithology Collections Manager <br />
 Natural History Museum of Los Angeles County <br />
 900 Exposition Blvd, Los Angeles, LA 90007 <br />
